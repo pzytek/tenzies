@@ -45,6 +45,18 @@ main {
   text-align: center;
 }
 
+.results-container {
+  display: grid;
+  grid-template: auto auto / repeat(3, 1fr);
+  gap: 1rem 5rem;
+  margin-bottom: 1.5rem;
+}
+
+.container-element {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
 .dice-container {
   display: grid;
   grid-template: auto auto / repeat(5, 1fr);
