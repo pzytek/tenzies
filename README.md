@@ -4,7 +4,7 @@ Tenzies is an exciting JavaScript-based board game that brings the thrill of qui
 
 ### App
 
-https://tenziespzytek-096ce94ff6c6.herokuapp.com/
+https://tenzies-binec3ngz-pzytek.vercel.app/
 
 ### How to run
 
